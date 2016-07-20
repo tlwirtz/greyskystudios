@@ -331,11 +331,11 @@ p br + br {
     font-weight: 400;
 }
 
-#text01 br + br {
+#text01, #text03 br + br {
     margin-top: 1.05rem;
 }
 
-#text01 {
+#text01, #text03 {
     color: #FFFFFF;
     font-family: 'Source Sans Pro';
     position: relative;
